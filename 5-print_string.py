@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-str = "Holberton School"
+str = "ALXSE"
 # YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
