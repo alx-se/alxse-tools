@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+str = "ALXSE"
+# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
